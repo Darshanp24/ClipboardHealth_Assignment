@@ -2,7 +2,7 @@
 
 Page Object model Test automation framework using Selenium with Java, Cucumber and Maven.
 
-I have automated assignment with page object model framework and used in selenium to automate with BDD approach. Junit is used as test framework.
+I have automated assignment with page object model design pattern with selenium to automate in BDD approach. Junit is used as test framework.
 
 Dependency Java Maven
 
